@@ -1,7 +1,7 @@
 import React from "react";
 import './About.css';
 import theme from '../../asserts/theme.png';
-import photo from '../../asserts/profilephoto.jpg';
+import photo from '../../asserts/profile.jpeg';
   const About =()=>{
     return (
         <div className="about" id="about">

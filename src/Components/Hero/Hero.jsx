@@ -3,6 +3,7 @@ import "./Hero.css";
 import profileImage from "../../asserts/profilephoto.jpg"
 import resume from '../../asserts/Resume.pdf';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
+import profile from '../../asserts/profilephoto.jpg';
 const Hero =()=>{
     return(
         <>
