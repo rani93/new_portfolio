@@ -33,6 +33,20 @@ const MyWork_Data= [
         w_img: project4 ,
         w_tech:"React.js ",
         w_about:"Developed a responsive web layout for mobile and desktop that enhanced user accessibility; improved interaction across devices, resulting in an increase of unique visitors by 35% within the first month post-launch."
+    },
+    {
+        w_no:"05",
+        w_name:"Blog website",
+        w_img: project1 ,
+        w_tech:"HTML, CSS and javaScript, React.js ",
+        w_about:"Explore a wide range of property listings, enjoy virtual tours, and use advanced filters to find the perfect match. . Start your journey today!"
+    },
+    {
+        w_no:"06",
+        w_name:"Admin Panel",
+        w_img: project2 ,
+        w_tech:"HTML, CSS and javaScript, React.js, MaterialUI ",
+        w_about:"Admin panel is use to show the complete data about the users and products"
     }
 ]
 
