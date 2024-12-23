@@ -58,6 +58,12 @@ li img{
 .nav-mob-close{
     display: none;
     margin: auto;
+    color: white;
+}
+.nav-mob-open{
+    display: none;
+    margin: auto;
+    color: white;
 }
 @media(max-width: 768px){
     .navbar{
@@ -79,6 +85,7 @@ li img{
         top: 30px;
         left:290px;
         width:30px;
+        color:white;
        
     }
     .nav-menu{
@@ -94,12 +101,12 @@ li img{
         transition: right 0.5s;
         right: -350px;
     }
-    /* .nav-menu li{
+    .nav-menu li{
         font-size: 30px;
         padding-left: 100px;
         flex-direction: row;
         gap:20px;
 
-    } */
+    }
 }
 

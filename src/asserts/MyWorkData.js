@@ -47,6 +47,12 @@ const MyWork_Data= [
         w_img: project2 ,
         w_tech:"HTML, CSS and javaScript, React.js, MaterialUI ",
         w_about:"Admin panel is use to show the complete data about the users and products"
+    },{
+        w_no:"07",
+        w_name:"DataTable",
+        w_img: project3 ,
+        w_tech:"HTML, CSS and javaScript, React.js, MaterialUI ",
+        w_about:"Admin panel is use to show the complete data about the users and products"
     }
 ]
 

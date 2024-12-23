@@ -3,6 +3,7 @@ import './Services.css';
 import theme from '../../asserts/theme.png';
 import Services_Data from "../../asserts/servicesData";
 // import arrow_icon from 
+import { FaArrowRight } from "react-icons/fa";
 
 
 const Services =()=>{
@@ -24,8 +25,10 @@ const Services =()=>{
                             <h2>{service.s_name}</h2>
                             <p>{service.s_desc}</p>
                             <div className="services-readmore">
-                                <p>Read More</p>
-                                <i class="fa-solid fa-arrow-right"></i>
+                                <p>Read More <FaArrowRight className="arrow-icon"/></p>
+                                {/* <i class="fa-solid fa-arrow-right"></i> */}
+                                
+
                             </div>
                         </div>
                         
