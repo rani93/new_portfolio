@@ -7,6 +7,7 @@ import Services from './Components/Services/Services';
 import MyWork from './Components/MyWork/MyWork';
 import Contact from './Components/contact/contact';
 import Footer from './Components/footer/footer';
+import { BrowserRouter } from 'react-router-dom';
 
 function App() {
   return (
@@ -16,7 +17,10 @@ function App() {
     <Hero/>
     <About/>
     <Services/>
+    <BrowserRouter>
     <MyWork/>
+    </BrowserRouter>
+    
     <Contact/>
     <Footer/>
     </>

@@ -112,5 +112,22 @@ color:black;
         gap:30px;
     }
 }
+.work-link{
+    text-decoration: none;
+    color: white;
+}
+
+.work-section{
+    display:flex;
+    flex-direction: row;
+    gap: 10px;
+    background: linear-gradient(264deg , #E4EfE9, #93A5CF);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2.5rem;
+    font-family:cursive;
+
+}
 
 
