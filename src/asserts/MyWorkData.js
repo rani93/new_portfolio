@@ -21,15 +21,15 @@ const BackendWork=[
         w_no:"01",
         w_name:"Payment Management",
         w_img: "",
-        w_tech:"React.js, Node.js, Express.js, MongoDB ",
-        w_about:"I have a profound understanding of JavaScript, React.js, Node.js, Express.js, and MongoDB. I am capable of building full-stack web applications and can provide guidance on implementing user authentication, database management, and server-side rendering.",
+        w_tech:"Spring boot, postman",
+        w_about:"Event management is the process of planning, coordinating, and executing events such as corporate conferences, weddings, trade shows, concerts, product launches, and festivals.Each method uses a specific mapping annotation corresponding to the HTTP method",
         w_link:"git@github.com:rani93/Payment-Application-Backend.git"
     },
     {
         w_no:"01",
         w_name:"Event Management",
         w_img: "" ,
-        w_tech:"React.js, Node.js, Express.js, MongoDB ",
+        w_tech:"Spring Boot, Postman",
         w_about:"I have a profound understanding of JavaScript, React.js, Node.js, Express.js, and MongoDB. I am capable of building full-stack web applications and can provide guidance on implementing user authentication, database management, and server-side rendering.",
         w_link:"git@github.com:rani93/Event-management-Backend.git"
     },
@@ -38,16 +38,16 @@ const BackendWork=[
         w_no:"01",
         w_name:"Ecommercial Backend",
         w_img: "" ,
-        w_tech:"React.js, Node.js, Express.js, MongoDB ",
-        w_about:"I have a profound understanding of JavaScript, React.js, Node.js, Express.js, and MongoDB. I am capable of building full-stack web applications and can provide guidance on implementing user authentication, database management, and server-side rendering.",
+        w_tech:"Spring Boot, Postman ",
+        w_about:"Experienced in backend development with Spring Boot, specializing in RESTful APIs, database management, and scalable, secure solutions for e-commerce applications.",
         w_link:"git@github.com:rani93/Ecommercial---Backend.git"
     },
     {
         w_no:"01",
         w_name:"College Management",
         w_img:"" ,
-        w_tech:"React.js, Node.js, Express.js, MongoDB ",
-        w_about:"I have a profound understanding of JavaScript, React.js, Node.js, Express.js, and MongoDB. I am capable of building full-stack web applications and can provide guidance on implementing user authentication, database management, and server-side rendering.",
+        w_tech:"Spring Boot, Postman",
+        w_about:"Crafted a robust and scalable event management backend using Spring Boot, designed to streamline operations with seamless API integrations and thoroughly tested workflows powered by Postman.",
         w_link:"git@github.com:rani93/college-management-backend.git"
     }
 
