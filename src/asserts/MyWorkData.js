@@ -22,7 +22,7 @@ const BackendWork=[
         w_name:"Payment Management",
         w_img: "",
         w_tech:"Spring boot, postman",
-        w_about:"Event management is the process of planning, coordinating, and executing events such as corporate conferences, weddings, trade shows, concerts, product launches, and festivals.Each method uses a specific mapping annotation corresponding to the HTTP method",
+        w_about:"Built a secure and efficient payment management system with Spring Boot, offering smooth API integrations and comprehensive testing with Postman to ensure flawless transactions and user experience.",
         w_link:"git@github.com:rani93/Payment-Application-Backend.git"
     },
     {
@@ -30,7 +30,7 @@ const BackendWork=[
         w_name:"Event Management",
         w_img: "" ,
         w_tech:"Spring Boot, Postman",
-        w_about:"I have a profound understanding of JavaScript, React.js, Node.js, Express.js, and MongoDB. I am capable of building full-stack web applications and can provide guidance on implementing user authentication, database management, and server-side rendering.",
+        w_about:"Event management is the process of planning, coordinating, and executing events such as corporate conferences, weddings, trade shows, concerts, product launches, and festivals.Each method uses a specific mapping annotation corresponding to the HTTP method",
         w_link:"git@github.com:rani93/Event-management-Backend.git"
     },
     
