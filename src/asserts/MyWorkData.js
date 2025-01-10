@@ -26,7 +26,7 @@ const BackendWork=[
         w_link:"git@github.com:rani93/Payment-Application-Backend.git"
     },
     {
-        w_no:"01",
+        w_no:"02",
         w_name:"Event Management",
         w_img: "" ,
         w_tech:"Spring Boot, Postman",
@@ -35,7 +35,7 @@ const BackendWork=[
     },
     
     {
-        w_no:"01",
+        w_no:"03",
         w_name:"Ecommercial Backend",
         w_img: "" ,
         w_tech:"Spring Boot, Postman ",
@@ -43,7 +43,7 @@ const BackendWork=[
         w_link:"git@github.com:rani93/Ecommercial---Backend.git"
     },
     {
-        w_no:"01",
+        w_no:"04",
         w_name:"College Management",
         w_img:"" ,
         w_tech:"Spring Boot, Postman",
@@ -92,14 +92,14 @@ const FrontendWork=[
     },
     
     {
-        w_no:"06",
+        w_no:"05",
         w_name:"Admin Panel",
         w_img: AdminPanel ,
         w_tech:"HTML, CSS and javaScript, React.js, MaterialUI ",
         w_about:"Admin panel is use to show the complete data about the users and products",
         w_link: "git@github.com:rani93/Admin-Panel.git"
     },{
-        w_no:"07",
+        w_no:"06",
         w_name:"DataTable",
         w_img: DataTable ,
         w_tech:"HTML, CSS and javaScript, React.js, MaterialUI ",
